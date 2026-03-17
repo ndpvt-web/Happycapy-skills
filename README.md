@@ -85,7 +85,7 @@ Create stunning, animation-rich HTML presentations from scratch or convert Power
 
 **Original Source:** [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
 
-#### [html-to-pptx](./skills/html-to-pptx/)
+#### [pptx](./skills/pptx/)
 Create polished PowerPoint (.pptx) presentations directly from topic or content descriptions. Uses HTML as an invisible internal design intermediate — the final deliverable is always a .pptx file. Supports distinctive aesthetics, smart layouts, and bilingual content (English/Chinese).
 
 **Original Source:** Community contribution

@@ -1,5 +1,5 @@
 ---
-name: html-to-pptx
+name: pptx
 description: >
   Create polished PowerPoint (.pptx) presentations directly from a topic or content description.
   Uses HTML as an invisible internal design intermediate — the HTML is never shown to the user.
@@ -9,7 +9,7 @@ description: >
   Supports Chinese and English. Always outputs .pptx, never HTML.
 ---
 
-# html-to-pptx Skill
+# PPTX Skill
 
 Generate a polished PPTX in three phases. The HTML draft is purely internal — never reference or expose it to the user.
 
@@ -40,7 +40,7 @@ This HTML serves one purpose: capture **color theme + slide structure + text con
 ### sys.path setup (always required)
 ```python
 import sys
-sys.path.insert(0, "/home/node/.claude/skills/html-to-pptx/scripts")
+sys.path.insert(0, "/home/node/.claude/skills/pptx/scripts")
 from pptx_builder import Builder, extract_theme_from_html
 from pptx.util import Inches, Pt
 from pptx.enum.text import PP_ALIGN

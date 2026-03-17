@@ -1,10 +1,10 @@
-# html-to-pptx
+# pptx
 
 A Claude Code skill for creating polished PowerPoint presentations directly from a topic or content description.
 
 ## What This Does
 
-**html-to-pptx** generates professional `.pptx` files using HTML as an invisible internal design intermediate. You describe your content, and the skill outputs a ready-to-use PowerPoint presentation with distinctive aesthetics and clean layouts.
+**pptx** generates professional `.pptx` files using HTML as an invisible internal design intermediate. You describe your content, and the skill outputs a ready-to-use PowerPoint presentation with distinctive aesthetics and clean layouts.
 
 ### Key Features
 
@@ -22,25 +22,25 @@ Copy the skill files to your Claude Code skills directory:
 
 ```bash
 # Create the skill directory
-mkdir -p ~/.claude/skills/html-to-pptx
+mkdir -p ~/.claude/skills/pptx
 
 # Copy the files (or download from this repo)
-cp SKILL.md ~/.claude/skills/html-to-pptx/
-cp -r scripts ~/.claude/skills/html-to-pptx/
+cp SKILL.md ~/.claude/skills/pptx/
+cp -r scripts ~/.claude/skills/pptx/
 ```
 
-Then use it by typing `/html-to-pptx` in Claude Code.
+Then use it by typing `/pptx` in Claude Code.
 
 ### Manual Download
 
 1. Download `SKILL.md` and `scripts/` from this repo
-2. Place them in `~/.claude/skills/html-to-pptx/`
+2. Place them in `~/.claude/skills/pptx/`
 3. Restart Claude Code
 
 ## Usage
 
 ```
-/html-to-pptx
+/pptx
 
 > "Create a pitch deck for my AI startup"
 > "Make a presentation about climate change with 10 slides"
