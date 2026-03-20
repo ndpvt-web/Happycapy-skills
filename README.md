@@ -210,6 +210,11 @@ Contract-First Map-Reduce coordination protocol for native TeamCreate multi-agen
 
 **Original Source:** [ndpvt-web/contract-first-agents](https://github.com/ndpvt-web/contract-first-agents)
 
+#### [capy-video-gen-skill](./skills/capy-video-gen-skill/)
+Multi-shot AI video generation pipeline with face identity consistency. Converts scripts or ideas into complete videos using character extraction, storyboarding, frame generation, and video assembly. 300 experiments validated, 70% face distance improvement.
+
+**Original Source:** [ndpvt-web/capy-video-gen-skill](https://github.com/ndpvt-web/capy-video-gen-skill)
+
 ---
 
 ## Installation
