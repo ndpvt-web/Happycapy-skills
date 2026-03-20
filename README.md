@@ -205,6 +205,11 @@ Autonomous 9-agent swarm that continuously contributes to open source projects o
 
 **Original Source:** [niveshdandyan/oss-contributor-swarm](https://github.com/niveshdandyan/oss-contributor-swarm)
 
+#### [contract-first-agents](./skills/contract-first-agents/)
+Contract-First Map-Reduce coordination protocol for native TeamCreate multi-agent teams. Wraps TeamCreate, Task (teammates), SendMessage with an upfront shared contract phase that eliminates 75% of integration errors. Based on 400+ experiment research proving 52.5% quality improvement over naive coordination.
+
+**Original Source:** [ndpvt-web/contract-first-agents](https://github.com/ndpvt-web/contract-first-agents)
+
 ---
 
 ## Installation
